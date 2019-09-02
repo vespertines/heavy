@@ -2,5 +2,13 @@
 layout: default
 ---
 
-<h1>Heavy Industries</h1>
-<h2>By <a href="https://twitter.com/vespertines" target="_blank">Kwang-Su Kim</a></h2>
+<div class="image uniform preview">
+    <figure>
+        <a href="/uniform">
+            <figcaption>
+                <h3>Uniform T-shirt</h3>
+            </figcaption>
+            <img src="/assets/images/uniform.jpg">
+        </a>
+    </figure>
+</div>
