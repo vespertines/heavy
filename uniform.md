@@ -11,10 +11,11 @@ permalink: /uniform/
 <div class="container">
     <div class="image uniform">
         <figure>
-            <img src="/assets/images/trigrams.png">
+            <img src="/assets/images/uniform.jpg">
             <figcaption>
-                <h3>Trigrams</h3>
-                <span>The four trigrams symbolise heaven, earth, water, and fire.</span>
+                <h3>Uniform T-shirt</h3>
+                <h4 class="price out">£35</h4>
+                <span>Black combed cotton-jersey, crew neck, 100% cotton, size availables: XS / S / M / L / XL</span>
             </figcaption>
         </figure>
     </div>
