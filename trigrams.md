@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Heavy Industries Uniform
-permalink: /uniform/
+title: Heavy Industries Trigrams
+permalink: /trigrams/
 ---
 
 <div class="back">

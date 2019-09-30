@@ -1,10 +1,49 @@
+
 body {
     background: #000000;
-    padding: 30px;
+}
+
+.container {
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+
+    .image {
+        margin-left: 15px;
+        margin-right: 15px;
+        padding-bottom: 30px;
+
+        &.preview {
+            h3 {
+                margin-bottom: 15px;
+            }
+
+            img {
+                width: 300px;
+            }
+
+            figcaption {
+                padding-top: 0;
+            }
+        }
+
+        img {
+            max-width: 100%;
+            width: 1000px;
+        }
+
+        figcaption {
+            padding-top: 10px;
+        }
+    }
 }
 
 header {
+    padding-top: 30px;
     padding-bottom: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
 
     .heavy-industries {
         a {
@@ -22,31 +61,6 @@ h2 {
 
 .back {
     padding-bottom: 15px;
-}
-
-.image {
-    padding-bottom: 30px;
-
-    &.preview {
-        h3 {
-            margin-bottom: 15px;
-        }
-
-        img {
-            width: 300px;
-        }
-
-        figcaption {
-            padding-top: 0;
-        }
-    }
-
-    img {
-        max-width: 100%;
-        width: 1000px;
-    }
-
-    figcaption {
-        padding-top: 10px;
-    }
+    padding-left: 30px;
+    padding-right: 30px;
 }
