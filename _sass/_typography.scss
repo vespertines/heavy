@@ -36,3 +36,14 @@ figcaption {
         font-size: 15px;
     }
 }
+
+.headline {
+    h3 {
+        margin-top: 1em;
+        margin-bottom: 1em;
+        padding: 0;
+        color: $grey;
+        font-size: 10px;
+        line-height: 1.125em;
+    }
+}
