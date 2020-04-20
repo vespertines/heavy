@@ -33,13 +33,17 @@ body {
             }
         }
 
-        img {
-            max-width: 100%;
-            width: 1000px;
-        }
+        figure {
+            margin-bottom: 30px;
 
-        figcaption {
-            padding-top: 10px;
+            img {
+                max-width: 100%;
+                width: 1000px;
+            }
+
+            figcaption {
+                padding-top: 30px;
+            }
         }
     }
 }
